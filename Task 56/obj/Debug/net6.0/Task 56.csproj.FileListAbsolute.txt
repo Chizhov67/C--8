@@ -1,0 +1,15 @@
+C:\Users\chizh\OneDrive\Desktop\ДЗ8\C--8\Task 56\bin\Debug\net6.0\Task 56.exe
+C:\Users\chizh\OneDrive\Desktop\ДЗ8\C--8\Task 56\bin\Debug\net6.0\Task 56.deps.json
+C:\Users\chizh\OneDrive\Desktop\ДЗ8\C--8\Task 56\bin\Debug\net6.0\Task 56.runtimeconfig.json
+C:\Users\chizh\OneDrive\Desktop\ДЗ8\C--8\Task 56\bin\Debug\net6.0\Task 56.dll
+C:\Users\chizh\OneDrive\Desktop\ДЗ8\C--8\Task 56\bin\Debug\net6.0\Task 56.pdb
+C:\Users\chizh\OneDrive\Desktop\ДЗ8\C--8\Task 56\obj\Debug\net6.0\Task 56.csproj.AssemblyReference.cache
+C:\Users\chizh\OneDrive\Desktop\ДЗ8\C--8\Task 56\obj\Debug\net6.0\Task 56.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chizh\OneDrive\Desktop\ДЗ8\C--8\Task 56\obj\Debug\net6.0\Task 56.AssemblyInfoInputs.cache
+C:\Users\chizh\OneDrive\Desktop\ДЗ8\C--8\Task 56\obj\Debug\net6.0\Task 56.AssemblyInfo.cs
+C:\Users\chizh\OneDrive\Desktop\ДЗ8\C--8\Task 56\obj\Debug\net6.0\Task 56.csproj.CoreCompileInputs.cache
+C:\Users\chizh\OneDrive\Desktop\ДЗ8\C--8\Task 56\obj\Debug\net6.0\Task 56.dll
+C:\Users\chizh\OneDrive\Desktop\ДЗ8\C--8\Task 56\obj\Debug\net6.0\refint\Task 56.dll
+C:\Users\chizh\OneDrive\Desktop\ДЗ8\C--8\Task 56\obj\Debug\net6.0\Task 56.pdb
+C:\Users\chizh\OneDrive\Desktop\ДЗ8\C--8\Task 56\obj\Debug\net6.0\Task 56.genruntimeconfig.cache
+C:\Users\chizh\OneDrive\Desktop\ДЗ8\C--8\Task 56\obj\Debug\net6.0\ref\Task 56.dll
